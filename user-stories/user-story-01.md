@@ -19,6 +19,7 @@
 
 * Mathieu (lead / React front end)
 * ion (back end / Scrum master)
+* Mehdi (React front end / back end)
 
 # Profile membre P7
 
