@@ -74,6 +74,16 @@
 * Jeff (Front end react / Product owner)
 * Daniel (React front end)
 
+# Playlist musicale
+
+### En tant qu'utilisateur, je veux play / pause la musique de l'application
+### En tant qu'utilisateur, je veux baisser / augmenter la musique du site
+### En tant qu'utilisateur, je veux écouter différentes chansons (playlist)
+
+### TEAM :
+
+* Curtis
+
 # UX / Design / Layout global / charte graphique
 
 
