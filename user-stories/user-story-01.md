@@ -31,8 +31,9 @@
 ### TEAM :
 
 * Faustino (lead / back end)
-* Daniel (React front end)
+* Ghunbot (React front end)
 * Osman (Back end)
+* Daniel (Back end -> Spécialité AWS CDN)
 * Adams (React front end)
 * Paljor (React front end)
 
@@ -68,9 +69,10 @@
 
 ### TEAM :
 
-* Tandi (Front end react / lead)
+* Tandi (Front end react / lead / scrum master)
 * Sami (Front end react)
 * Jeff (Front end react / Product owner)
+* Daniel (React front end)
 
 # UX / Design / Layout global / charte graphique
 
