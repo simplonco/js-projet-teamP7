@@ -40,8 +40,8 @@
 # Page de liste public de tous les membres de la P7
 
 ### En tant que recruteur, je veux voir tous les membres de la P7
-### En tant que recruteur, je veux filter la liste par compétence
-### En tant que recruteur, je veux filter la liste par disponibilité
+### En tant que recruteur, je veux filtrer la liste par compétence
+### En tant que recruteur, je veux filtrer la liste par disponibilité
 ### En tant que recruteur, je veux accéder à la page profile de chaque membre
 
 ### TEAM :
@@ -51,10 +51,10 @@
 
 # Page de profile public d'un membre
 
-### En tant que recruteur, je veux voir les compétences du membre
-### En tant que recruteur, je veux voir la disponibilité du membre
-### En tant que recruteur, je veux voir ses 3 repos github
-### En tant que recruteur, je veux voir les images de porfolio
+### En tant que annonceur, je veux voir les compétences du membre
+### En tant que annonceur, je veux voir la disponibilité du membre
+### En tant que annonceur, je veux voir ses 3 repos github
+### En tant que annonceur, je veux voir les images de porfolio
 
 ### TEAM :
 
