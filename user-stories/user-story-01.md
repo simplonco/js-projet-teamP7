@@ -18,7 +18,7 @@
 ### TEAM :
 
 * Mathieu (lead / React front end)
-* ion (back end)
+* ion (back end / Scrum master)
 
 # Profile membre P7
 
@@ -34,6 +34,7 @@
 * Daniel (React front end)
 * Osman (Back end)
 * Adams (React front end)
+* Paljor (React front end)
 
 # Page de liste public de tous les membres de la P7
 
@@ -41,6 +42,11 @@
 ### En tant que recruteur, je veux filter la liste par compétence
 ### En tant que recruteur, je veux filter la liste par disponibilité
 ### En tant que recruteur, je veux accéder à la page profile de chaque membre
+
+### TEAM :
+
+* Fousseni (lead / scrum master / React front end)
+* Sadia (React front end)
 
 # Page de profile public d'un membre
 
@@ -51,7 +57,8 @@
 
 ### TEAM :
 
-* Joackim (Front end react)
+* Joackim (Front end react / lead)
+* David (Front end react)
 
 # création d'annonces
 
@@ -59,4 +66,20 @@
 ### En tant qu'annonceur, je veux créer une annonce
 ### En tant qu'annonceur, je veux voir mon annonce dans la liste d'annonce
 
+### TEAM :
+
+* Tandi (Front end react / lead)
+* Sami (Front end react)
+* Jeff (Front end react / Product owner)
+
+# UX / Design / Layout global / charte graphique
+
+
+### TEAM :
+
+* Claire (lead)
+* Laurianne
+* Joackim
+* Hilal
+* IJACQUES
 
